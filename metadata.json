@@ -1,7 +1,0 @@
-{
-  "owner": "matrix-org",
-  "name": "done-action",
-  "visibility": "public",
-  "description": "Check if dependent jobs completed",
-  "block_publish": false
-}
