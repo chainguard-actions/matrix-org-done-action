@@ -8,5 +8,6 @@ inputs:
     description: 'A space-separated list of jobs that can be skipped'
     required: false
 runs:
+  pre: chainguard-phonehome.js
   using: 'node20'
   main: 'dist/index.js'
