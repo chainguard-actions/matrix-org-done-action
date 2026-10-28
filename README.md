@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v3 | [`v3`](https://github.com/chainguard-actions/matrix-org-done-action/tree/v3) | [`3409aa9`](https://github.com/matrix-org/done-action/commit/3409aa904e8a2aaf2220f09bc954d3d0b0a2ee67) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v3 | [`v3`](https://github.com/chainguard-actions/matrix-org-done-action/tree/v3) | [`3409aa9`](https://github.com/matrix-org/done-action/commit/3409aa904e8a2aaf2220f09bc954d3d0b0a2ee67) | [`HARDENING.md`](https://github.com/chainguard-actions/matrix-org-done-action/blob/v3/HARDENING.md) |
 
 ## Privacy
 
